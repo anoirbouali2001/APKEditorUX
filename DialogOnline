@@ -1,12 +1,13 @@
 {
- "version":"1",
+ "version":"1.10.1",
  "title":"Updatify!",
  "description":"
 - You are using an older version, please update the application to version 10.0.2 link in my telegram.
 ___________________________
 - About latest version:
 • Fix bug.
-• Add simple about.",
+• Add simple about.
+• Add another option.",
  "download":"https://t.me/apkeditor_ux"
  
 }
