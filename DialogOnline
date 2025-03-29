@@ -6,12 +6,12 @@
 "changelog": "\n- Some minor improvements\n- Sorry if this update is annoying,\n you can disable the update dialog in settings\n\n\n- Note please uninstall old version and install new version\n\n© 2022 - 2023 ismasrull"
 },
 "beta": {
-"current_version": 20240519,
+"current_version": 1.10.13,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/4.2/beta4.2.apk",
 "changelog": "- Add languages Chinese Simplified.\n- Some improvements \n\n- Beta Version\n\n\n- Note please uninstall old version and install new version\n\n© 2022 - 2024 Trident!"
 },
 "alternative": {
-"current_version": 0,
+"current_version": 1.10.1,
 "download_url": "https://github.com/cumaRull/Apk-Editor/releases/download/3.9/stable.3.9.apk",
 "changelog": "- Not available!" 
 
